@@ -1,9 +1,5 @@
 # House-prediction
-
-If you want a README in the same professional style as the previous one, here's the **upper section** for your **House Price Prediction using Linear Regression** project.
-
-````text
-🏠 House Price Prediction using Linear Regression
+# House Price Prediction using Linear Regression
 
 A Machine Learning web application built with Streamlit that predicts house prices based on property size using a Linear Regression model. The application provides real-time predictions along with an interactive visualization of the dataset and predicted value.
 
